@@ -58,3 +58,11 @@ nums is sorted in non-decreasing order.
 
 > No additional space is used.
 
+logic:
+```
+1. slow be the first number              => slow = 0th index
+2. for loop search from the 1 element    => fast = 1st index
+3. if the the 0th and 1st element is same=> then slow add by 1 index and added index may have the non reapeated value
+
+
+```
