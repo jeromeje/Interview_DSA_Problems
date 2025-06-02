@@ -10,3 +10,7 @@ Given a string `s`, return the **longest palindromic substring** in `s`.
 ```text
 Input: "babad"
 Output: "bab"  // "aba" is also valid
+
+## 🚀 Answer
+🪜 Step-by-Step Explanation
+🔹 Step 1: Define the Expansion Function
